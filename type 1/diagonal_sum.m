@@ -14,5 +14,5 @@ for i=1:size(matris,1)
         end
     end
 end
-fprintf('düz köşegen elemanı:%d\n',toplam);
-fprintf('ters köşegen elemanı:%d',toplam_2);
+fprintf('dÃ¼z kÃ¶Ã¾egen elemanÃ½:%d\n',toplam);
+fprintf('ters kÃ¶Ã¾egen elemanÃ½:%d',toplam_2);
